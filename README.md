@@ -50,14 +50,19 @@ Admin can publish new recipes, edit and delete their post and explore things by 
 https://www.themealdb.com/api.php
 
 - Search meal by name
+  
   https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
 
 - Lookup full meal details by id
+  
   https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 - List all Categories, Area, Ingredients
+  
   https://www.themealdb.com/api/json/v1/1/list.php?c=list
+  
   https://www.themealdb.com/api/json/v1/1/list.php?a=list
+  
   https://www.themealdb.com/api/json/v1/1/list.php?i=list
 
 ## Other Info
